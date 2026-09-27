@@ -11,10 +11,9 @@ Grupo 1
 | N° | Apellidos y Nombres | Grupo |
 |:--:|---------------------|:-----:|
 | 1 | Chaupis Alvarez Jhonny Samuel | 1 |
-| 2 | Cruz Valdez Ronald Corwin | 1 |
-| 3 | Hinojosa Cano Carlos Daniel | 1 |
-| 4 | Hurtado Sernaque Brayan Luis | 1 |
-| 5 | Alayo Oliveros Mathias Miller | 1 |
+| 2 | Hinojosa Cano Carlos Daniel | 1 |
+| 3 | Hurtado Sernaque Brayan Luis | 1 |
+| 4 | Alayo Oliveros Mathias Miller | 1 |
 
 ---
 
